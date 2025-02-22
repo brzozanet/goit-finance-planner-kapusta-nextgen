@@ -1,4 +1,4 @@
-# GoIT finance planner Kapu$ta
+# GoIT finance planner Kapu$ta NxG
 
 Instalacja projektu 👉 Instalację należy wykonać w każdym z folderów: głównym oraz 'front-end' i 'back-end'. Upewnij się że instalację wykonujesz w każdym z folderów, przechodząc do niego w CLI.
 
